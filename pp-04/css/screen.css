@@ -206,5 +206,23 @@ label {
 
 /* ===== MODULAR STYLES ===== */
 
+
 /* ===== STATE STYLES ======= */
+
+@media screen and (max-width: 20em) 
+
+/* gray color input regions */
+li {
+color:#989898;
+background-color:#989898;
+border:none;
+}
+
+html {
+font-family: "Lucida Grande", Optima, Candara, Tahoma, "Arial Black", 'Nunito', sans-serif;
+}
+body{
+     font-family: 'Nunito', sans-serif;
+}
+
 
