@@ -13,3 +13,4 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`pp-10/`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+In the HTML would take away the navigation bar below the search bar. I would take away the ad below it if I could. In the CSS I would center the title of the topics on the message board. I found the text just a bit too small so I would also increase the size of the text in the CSS. I would add some padding on each side that it looks more compact and easier to work with.
